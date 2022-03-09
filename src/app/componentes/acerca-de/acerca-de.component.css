@@ -1,0 +1,21 @@
+img{
+    width: 150px;
+    border-radius: 50%;
+    z-index: 1;
+    /* position: relative;
+    transform: translateY(-5em); */
+}
+/* h5{
+    position: relative;
+    transform: translateY(-10em);
+} */
+/* .container{
+    position: static;
+} */
+.foto-perfil{
+    width: 200px;
+    position: relative;
+    transform: translateY(-5em);
+    margin-bottom: -85px;
+    
+}
